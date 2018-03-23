@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCodeDay3Tests", "AdventOfCodeDay3\AdventOfCodeDay3Tests.csproj", "{2DB58CEE-559A-4590-846B-F1F976F7524C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMemory", "SpiralMemory\SpiralMemory.csproj", "{522BCEF0-438B-45D0-B5F9-5CE1F2F0D3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB58CEE-559A-4590-846B-F1F976F7524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB58CEE-559A-4590-846B-F1F976F7524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB58CEE-559A-4590-846B-F1F976F7524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB58CEE-559A-4590-846B-F1F976F7524C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522BCEF0-438B-45D0-B5F9-5CE1F2F0D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522BCEF0-438B-45D0-B5F9-5CE1F2F0D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522BCEF0-438B-45D0-B5F9-5CE1F2F0D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522BCEF0-438B-45D0-B5F9-5CE1F2F0D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAAF6C2-B8D4-4296-9EE3-36ED5DEBECFB}
+	EndGlobalSection
+EndGlobal
